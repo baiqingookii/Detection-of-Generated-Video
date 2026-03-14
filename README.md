@@ -4,3 +4,4 @@ videos from Pika-labs[23],VideoCraft[12],Moonvalley[8] and a real
 video, respectively.](./fig1.jpg)
 
 It will be updated later.
+源代码在https://github.com/multimediaFor/AIGVDet
